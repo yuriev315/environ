@@ -1,2 +1,10 @@
 [InternetShortcut]
 URL=https://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
+
+[File]
+Name=aclImdb_v1.tar.gz
+Work=Large Movie Review Dataset v1.0 (Maas et al., Stanford)
+SizeBytes=84125825
+GitBlobSHA1=b792b528bc72fa94ac1abd297dc8e5da53b73105
+DirectDownload=yes
+Checked=2026-10-12 HTTP 200 (web.archive.org capture)

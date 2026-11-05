@@ -1,2 +1,10 @@
 [InternetShortcut]
 URL=https://archive.ics.uci.edu/static/public/228/sms+spam+collection.zip
+
+[File]
+Name=sms_spam_collection.zip
+Work=SMS Spam Collection, UCI Machine Learning Repository
+SizeBytes=203415
+SHA256=1587ea43e58e82b14ff1f5425c88e17f8496bfcdb67a583dbff9eefaf9963ce3
+DirectDownload=yes
+Checked=2026-11-05 HTTP 200
