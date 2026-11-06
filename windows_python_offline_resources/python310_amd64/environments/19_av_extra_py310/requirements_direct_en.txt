@@ -1,0 +1,6 @@
+moviepy>=2
+imageio-ffmpeg
+pydub
+sounddevice
+av
+numpy

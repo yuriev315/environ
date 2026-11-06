@@ -1,0 +1,13 @@
+[InternetShortcut]
+URL=https://files.pythonhosted.org/packages/2e/c9/0bb9d097b03cbaf96bb75b15e867347b8e41bfcdfe0539452d17d9e63993/torch-2.13.0-cp310-cp310-win_amd64.whl
+
+[File]
+Name=torch-2.13.0-cp310-cp310-win_amd64.whl
+Package=torch
+Version=2.13.0
+Source=PyPI
+SizeBytes=122015602
+SHA256=2bd30b6b730d987fa386ce3898933762c5cb8cc82eb0535211d787cc3ce2dfeb
+DirectDownload=yes
+Reason=File is larger than 100 MiB; download it into this folder before installing
+Checked=2026-11-06

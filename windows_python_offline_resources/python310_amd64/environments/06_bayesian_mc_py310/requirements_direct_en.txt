@@ -1,0 +1,8 @@
+pymc
+arviz
+emcee
+corner
+numpy
+scipy
+pandas
+matplotlib

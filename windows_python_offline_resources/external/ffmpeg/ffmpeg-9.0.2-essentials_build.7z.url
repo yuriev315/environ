@@ -1,0 +1,13 @@
+[InternetShortcut]
+URL=https://www.gyan.dev/ffmpeg/builds/packages/ffmpeg-9.0.2-essentials_build.7z
+
+[File]
+Name=ffmpeg-9.0.2-essentials_build.7z
+Product=FFmpeg 9.0.2 essentials build (gyan.dev)
+License=GPL-3.0（含 GPL 编码器的构建）
+SHA256Source=2026-11-06 下载并计算
+SizeBytes=35430500
+SHA256=4705843ccaaf54257c16ad90f3e952ece33c17df964ecf7bfdbb0f49c7171077
+DirectDownload=yes
+Reason=GPL 二进制，再分发需附源码提供方式，这里只给官方链接；发布方 SHA256 已核对一致
+Checked=2026-11-06

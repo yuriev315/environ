@@ -1,0 +1,7 @@
+torch
+lightning
+torchmetrics
+timm
+einops
+tensorboard
+torchinfo

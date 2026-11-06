@@ -1,0 +1,13 @@
+[InternetShortcut]
+URL=https://storage.googleapis.com/chrome-for-testing-public/157.0.8103.38/win64/chromedriver-win64.zip
+
+[File]
+Name=chromedriver-win64.zip
+Product=ChromeDriver 157.0.8103.38 win64
+License=Google Chrome for Testing 条款
+SHA256Source=2026-11-06 下载并计算
+SizeBytes=11594835
+SHA256=f50ee10dfebbb9ffbe666e7ad12b2c952abd5255c90c24beb12de0fbadab6571
+DirectDownload=yes
+Reason=浏览器厂商二进制，未确认可在此再分发
+Checked=2026-11-06

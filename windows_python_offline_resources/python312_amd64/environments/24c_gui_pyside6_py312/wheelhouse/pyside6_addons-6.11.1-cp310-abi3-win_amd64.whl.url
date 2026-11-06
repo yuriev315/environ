@@ -1,0 +1,13 @@
+[InternetShortcut]
+URL=https://files.pythonhosted.org/packages/9a/bd/8adc4d350b3b363f3dfc8fccdcf5bfed25f7e36c2fff30c64e106f4f1572/pyside6_addons-6.11.1-cp310-abi3-win_amd64.whl
+
+[File]
+Name=pyside6_addons-6.11.1-cp310-abi3-win_amd64.whl
+Package=pyside6-addons
+Version=6.11.1
+Source=PyPI
+SizeBytes=168816308
+SHA256=0d13c4dfd671b050a48e4f8d8ddc724b7248f9c0437e7fc47fdf316278572923
+DirectDownload=yes
+Reason=File is larger than 100 MiB; download it into this folder before installing
+Checked=2026-11-06

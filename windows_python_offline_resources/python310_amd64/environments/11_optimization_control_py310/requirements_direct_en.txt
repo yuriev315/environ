@@ -1,0 +1,8 @@
+cvxpy
+pulp
+casadi
+control
+pyomo
+scipy
+numpy
+matplotlib

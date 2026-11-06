@@ -1,0 +1,9 @@
+flask
+django
+fastapi
+uvicorn
+httpx
+requests
+sqlalchemy
+jinja2
+waitress

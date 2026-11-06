@@ -1,0 +1,8 @@
+sqlalchemy
+pymysql
+psycopg[binary]
+pymongo
+redis
+duckdb
+alembic
+pandas

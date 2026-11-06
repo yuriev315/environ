@@ -1,0 +1,13 @@
+[InternetShortcut]
+URL=https://files.pythonhosted.org/packages/74/b5/d40e1e389e07de9d113cf8e5d294c04d06124441d57606febfd0fb2cf5a6/tensorflow-2.20.0-cp310-cp310-win_amd64.whl
+
+[File]
+Name=tensorflow-2.20.0-cp310-cp310-win_amd64.whl
+Package=tensorflow
+Version=2.20.0
+Source=PyPI
+SizeBytes=331664937
+SHA256=4a69ac2c2ce20720abf3abf917b4e86376326c0976fcec3df330e184b81e4088
+DirectDownload=yes
+Reason=File is larger than 100 MiB; download it into this folder before installing
+Checked=2026-11-06

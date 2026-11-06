@@ -1,0 +1,7 @@
+shap
+umap-learn
+hdbscan
+mlxtend
+category_encoders
+optuna
+scikit-learn

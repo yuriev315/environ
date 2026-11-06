@@ -1,0 +1,13 @@
+[InternetShortcut]
+URL=https://www.python.org/ftp/python/3.13.17/python-3.13.17-amd64.exe
+
+[File]
+Name=python-3.13.17-amd64.exe
+Product=CPython 3.13.17 Windows x64 installer
+License=PSF-2.0
+SHA256Source=python.org 发布页公布值，本机未下载
+SizeBytes=29941280
+SHA256=5da012101ba2e17113a9a1cd901e9ce1441086f2b7ecb5de06ec94163899a190
+DirectDownload=yes
+Reason=本库环境不使用 3.13，只保留链接
+Checked=2026-11-06

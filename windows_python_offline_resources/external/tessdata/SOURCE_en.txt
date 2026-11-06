@@ -1,0 +1,2 @@
+Files from https://github.com/tesseract-ocr/tessdata_fast (branch main), Apache License 2.0.
+Copy them to the tessdata folder of a Tesseract installation, or set TESSDATA_PREFIX to this folder.

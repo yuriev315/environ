@@ -1,0 +1,6 @@
+gpflow
+tensorflow
+tensorflow-probability
+tf-keras
+numpy
+matplotlib

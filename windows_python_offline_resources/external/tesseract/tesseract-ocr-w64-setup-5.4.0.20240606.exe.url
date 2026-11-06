@@ -1,0 +1,13 @@
+[InternetShortcut]
+URL=https://github.com/UB-Mannheim/tesseract/releases/download/v5.4.0.20240606/tesseract-ocr-w64-setup-5.4.0.20240606.exe
+
+[File]
+Name=tesseract-ocr-w64-setup-5.4.0.20240606.exe
+Product=Tesseract OCR 5.4.0 Windows installer (UB Mannheim build)
+License=Apache-2.0（捆绑库许可未逐一核实）
+SHA256Source=2026-11-06 下载并计算
+SizeBytes=50175248
+SHA256=c885fff6998e0608ba4bb8ab51436e1c6775c2bafc2559a19b423e18678b60c9
+DirectDownload=yes
+Reason=第三方构建的安装程序，捆绑库许可未逐一核实，只给官方链接
+Checked=2026-11-06

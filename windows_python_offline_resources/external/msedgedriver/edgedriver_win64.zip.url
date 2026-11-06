@@ -1,0 +1,13 @@
+[InternetShortcut]
+URL=https://msedgedriver.microsoft.com/156.0.4314.58/edgedriver_win64.zip
+
+[File]
+Name=edgedriver_win64.zip
+Product=Microsoft Edge WebDriver 156.0.4314.58 win64
+License=Microsoft 软件许可条款
+SHA256Source=2026-11-06 下载并计算
+SizeBytes=11630714
+SHA256=2fd5acb3e5d8a5e35e0281f59d31292f261f21ba994fe025370331d522042ab5
+DirectDownload=yes
+Reason=微软专有软件，未确认可在此再分发
+Checked=2026-11-06

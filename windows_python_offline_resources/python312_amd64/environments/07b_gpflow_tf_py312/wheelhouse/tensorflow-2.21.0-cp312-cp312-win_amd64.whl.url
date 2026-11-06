@@ -1,0 +1,13 @@
+[InternetShortcut]
+URL=https://files.pythonhosted.org/packages/7d/0d/4ee4bc074597b41c9c00dc97b4418ef1eb8736fe9186ffdb3961efdfb730/tensorflow-2.21.0-cp312-cp312-win_amd64.whl
+
+[File]
+Name=tensorflow-2.21.0-cp312-cp312-win_amd64.whl
+Package=tensorflow
+Version=2.21.0
+Source=PyPI
+SizeBytes=350945509
+SHA256=27ba0682572b1e50a0db1ee74cfb787eafcfdb1b751bbbf401fed62fe32a92e0
+DirectDownload=yes
+Reason=File is larger than 100 MiB; download it into this folder before installing
+Checked=2026-11-06

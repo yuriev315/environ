@@ -1,0 +1,13 @@
+[InternetShortcut]
+URL=https://storage.googleapis.com/chrome-for-testing-public/157.0.8103.38/win64/chrome-headless-shell-win64.zip
+
+[File]
+Name=chrome-headless-shell-win64.zip
+Product=Chrome for Testing headless shell 157.0.8103.38 win64
+License=Google Chrome for Testing 条款
+SHA256Source=超过 100 MiB，未下载，SHA256 未核对
+SizeBytes=126513060
+SHA256=unverified
+DirectDownload=yes
+Reason=超过 100 MiB，只给官方链接
+Checked=2026-11-06

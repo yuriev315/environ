@@ -1,0 +1,9 @@
+numba
+xarray
+netCDF4
+dask
+polars
+pyarrow
+networkx
+sympy
+astropy

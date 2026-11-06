@@ -1,0 +1,8 @@
+statsmodels
+pmdarima
+prophet
+arch
+yfinance
+sktime>=1.0
+pandas
+matplotlib

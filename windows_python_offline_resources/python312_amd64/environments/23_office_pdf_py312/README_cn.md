@@ -1,0 +1,35 @@
+# 23_office_pdf（Python 3.12.10，Windows x64）
+
+用途：Office 与 PDF 文档处理
+
+## 直接依赖
+
+| 包 | 版本 |
+| --- | --- |
+| `openpyxl` | 3.1.5 |
+| `python-docx` | 1.2.0 |
+| `python-pptx` | 1.0.2 |
+| `pypdf` | 6.14.2 |
+| `pdfplumber` | 0.11.9 |
+| `reportlab` | 5.0.0 |
+| `xlsxwriter` | 3.2.9 |
+| `pymupdf` | 1.28.0 |
+
+锁定清单共 18 个分发包（含传递依赖），本目录内含 18 个，约 47 MiB。全部来自 PyPI，并与锁定清单中的 SHA256 一致。
+
+## 安装
+
+先安装 `python312_amd64\runtime\python-3.12.10-amd64.exe`，然后在 PowerShell 中：
+
+```powershell
+cd D:\wpo\python312_amd64\environments\23_office_pdf_py312
+powershell -ExecutionPolicy Bypass -File .\install_offline_en.ps1
+```
+
+脚本在本目录下创建 `.venv`，先用随包的 pip 26.2 升级 pip，再按锁定清单（`--require-hashes`）离线安装，最后运行 `check_environment_en.py` 检查导入与版本。
+
+激活：`.\.venv\Scripts\Activate.ps1`
+
+## 状态
+
+只做了静态检查：wheel 平台标签与 Python 版本、锁定清单 SHA256、`pip install --dry-run --platform win_amd64` 通过。**没有在 Windows 上实际安装验证。**

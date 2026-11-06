@@ -1,0 +1,3 @@
+Playwright browsers are not included. On a machine with internet access run:
+  .\.venv\Scripts\python.exe -m playwright install chromium
+then copy %LOCALAPPDATA%\ms-playwright to the offline machine.

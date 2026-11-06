@@ -1,0 +1,9 @@
+akshare==1.18.88
+lime
+ta
+jieba
+odfpy
+numpy
+pandas
+scikit-learn
+matplotlib

@@ -1,0 +1,7 @@
+pingouin
+lifelines
+scikit-optimize
+hyperopt
+optuna
+statsmodels
+linearmodels

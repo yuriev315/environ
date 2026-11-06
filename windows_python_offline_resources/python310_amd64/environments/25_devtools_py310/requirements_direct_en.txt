@@ -1,0 +1,14 @@
+pytest
+black
+ruff
+mypy
+pre-commit
+ipython
+pylint
+isort
+flake8
+pyinstaller
+build
+twine
+setuptools
+wheel

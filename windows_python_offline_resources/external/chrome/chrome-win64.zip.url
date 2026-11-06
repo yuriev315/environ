@@ -1,0 +1,13 @@
+[InternetShortcut]
+URL=https://storage.googleapis.com/chrome-for-testing-public/157.0.8103.38/win64/chrome-win64.zip
+
+[File]
+Name=chrome-win64.zip
+Product=Chrome for Testing 157.0.8103.38 win64
+License=Google Chrome for Testing 条款
+SHA256Source=超过 100 MiB，未下载，SHA256 未核对
+SizeBytes=210600182
+SHA256=unverified
+DirectDownload=yes
+Reason=超过 100 MiB，且为 Google 发布的浏览器二进制，只给官方链接
+Checked=2026-11-06
